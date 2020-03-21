@@ -7,14 +7,14 @@ Instead of sticking with a bare boilerplate, I decided to make this repository e
 This application is NOT functional because certain props would be required from a backend server, so in its current working verison, the app will throw an error because of undefined props.
 
 ## Dependencies
-`axios` - promised based HTTP client for making HTTP requests
-`bootstrap` - the Bootstrap library
-`react-helmet` - allows you to dynamically modify HTMl head elements, such as <title></title> and <meta/>
-`react-redux` - lets you use React Redux with your React app
-`react-router-dom` - a collection of navigational components that compose declaratively with your application
-`reactstrap` - easy to use React Bootstrap 4 components compatible with React 16+
-`redux` - a predictable state container for JavaScript apps
-`redux-thunk` - middleware that allows you to write action creators that return a function instead of an action
+- `axios` - promised based HTTP client for making HTTP requests
+- `bootstrap` - the Bootstrap library
+- `react-helmet` - allows you to dynamically modify HTMl head elements, such as <title></title> and <meta/>
+- `react-redux` - lets you use React Redux with your React app
+- `react-router-dom` - a collection of navigational components that compose declaratively with your application
+- `reactstrap` - easy to use React Bootstrap 4 components compatible with React 16+
+- `redux` - a predictable state container for JavaScript apps
+- `redux-thunk` - middleware that allows you to write action creators that return a function instead of an action
 
 ## Available Scripts
 
