@@ -1,0 +1,10 @@
+export const ERRORS_RETURNED = "ERRORS_RETURNED";
+export const ERRORS_CLEARED = "ERRORS_CLEARED";
+
+export const ITEMS_LOADING = "ITEMS_LOADING";
+export const ITEMS_ERROR = "ITEMS_ERROR";
+export const ITEM_CREATED = "ITEM_CREATED";
+export const ITEMS_FETCHED = "ITEMS_FETCHED";
+export const ITEM_RETURNED = "ITEM_RETURNED";
+export const ITEM_UPDATED = "ITEM_UPDATED";
+export const ITEM_DELETED = "ITEM_DELETED";
